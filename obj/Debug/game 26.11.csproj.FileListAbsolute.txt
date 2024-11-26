@@ -1,0 +1,10 @@
+D:\game 26.11\game 26.11\obj\Debug\game 26.11.csproj.AssemblyReference.cache
+D:\game 26.11\game 26.11\obj\Debug\game_26._11.Properties.Resources.resources
+D:\game 26.11\game 26.11\obj\Debug\game 26.11.csproj.GenerateResource.cache
+D:\game 26.11\game 26.11\obj\Debug\game 26.11.csproj.CoreCompileInputs.cache
+D:\game 26.11\game 26.11\bin\Debug\game 26.11.exe.config
+D:\game 26.11\game 26.11\bin\Debug\game 26.11.exe
+D:\game 26.11\game 26.11\bin\Debug\game 26.11.pdb
+D:\game 26.11\game 26.11\obj\Debug\game 26.11.exe
+D:\game 26.11\game 26.11\obj\Debug\game 26.11.pdb
+D:\game 26.11\game 26.11\obj\Debug\hw.Form1.resources
